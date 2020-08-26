@@ -1,0 +1,12 @@
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.csprojAssemblyReference.cache
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.AssemblyInfoInputs.cache
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.AssemblyInfo.cs
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.csproj.CoreCompileInputs.cache
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/bin/Debug/netcoreapp3.1/DataTypeExercise.deps.json
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/bin/Debug/netcoreapp3.1/DataTypeExercise.runtimeconfig.json
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/bin/Debug/netcoreapp3.1/DataTypeExercise.runtimeconfig.dev.json
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/bin/Debug/netcoreapp3.1/DataTypeExercise.dll
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/bin/Debug/netcoreapp3.1/DataTypeExercise.pdb
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.dll
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.pdb
+/Users/rg/Desktop/Projects/repos/DataTypeExerciseApp/DataTypeExercise/obj/Debug/netcoreapp3.1/DataTypeExercise.genruntimeconfig.cache
